@@ -1,3 +1,8 @@
-Primeira Aula de Git
+Testando Integração com o GIT
 
-Batatinha frita um dois tres. 
+Testando o GIT
+GIT
+
+
+
+
